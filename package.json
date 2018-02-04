@@ -1,0 +1,12 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "A micro bot",
+  "main": "bot.js",
+  "author": "Swiftingly#6445",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "fs": "0.0.1-security"
+  }
+}
